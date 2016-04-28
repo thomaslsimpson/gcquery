@@ -1,5 +1,12 @@
 This simple jQuery plugin will grab the events for today from a public google calendar.
 
+It would be very easy to extend it for different time periods. I'll do that if someone asks me 
+to or if I end up needing to do it myself.
+
+I use it read specials and other sschedules events for businesses. They can just manage one or 
+more Google Calendars and I can pull that information and put it on their web site. This way
+they don't have to modify multiple information sources.
+
 ```
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 <script src="gcquery/gcquery.js"></script>
